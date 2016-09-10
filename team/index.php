@@ -113,7 +113,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/aravind.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 9495978292</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links">
                                         <!-- <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -138,7 +138,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/jeffin.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 9400563250</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -163,7 +163,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/gayatri.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 8281063505</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links">
                                         <!--<a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -188,7 +188,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/sreehari.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 9446309596</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links">
                                         <!-- <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -213,7 +213,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/roshan.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 9496638718</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -238,7 +238,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/akhil.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 9497272424</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -263,7 +263,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/safa.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 8129544888</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -289,7 +289,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/abishek.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 9349520240</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -315,7 +315,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/darrel.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+919447547601</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -340,7 +340,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/arjun.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 8075823371/h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -365,7 +365,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/gauthamy.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 8281620374/h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -390,7 +390,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/madan.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 9447310294</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -415,7 +415,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/swathy.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 --</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -440,7 +440,7 @@
                             <div class="team-item-image">
                                 <img src="../images/team/sangeetha.jpg" alt="" />
                                 <div class="team-item-detail">
-                                    <h4 class="font-alt normal">+91 9496530941</h4>
+                                    <h4 class="font-alt normal">+xx xxxxxxxxxx</h4>
                                     <div class="team-social-links"><!-- 
                                         <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                                         <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
